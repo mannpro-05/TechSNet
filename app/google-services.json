@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1002166853830",
+    "firebase_url": "https://techsnet-5b403-default-rtdb.firebaseio.com",
+    "project_id": "techsnet-5b403",
+    "storage_bucket": "techsnet-5b403.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002166853830:android:1c35a85e57a71014c177c7",
+        "android_client_info": {
+          "package_name": "com.example.techsnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002166853830-jk0esug84r0sopar11in9be9mpi9cavs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD3nb9uYhlZGqPDJgW4OOF_L4ACjnZzxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002166853830-jk0esug84r0sopar11in9be9mpi9cavs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
